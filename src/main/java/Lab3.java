@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Lab3 {
 /*123*/
     public static void main(String[] args) {
-        String url = "http://erdani.com/tdpl/hamlet.txt";
+        String url = "https://cs125.cs.illinois.edu/lab/3/";
         String contents = urlToString(url);
 
         System.out.println("Simple Java Word Count Program");
